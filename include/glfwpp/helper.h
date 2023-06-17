@@ -1,6 +1,7 @@
 #ifndef GLFWPP_HELPER_H
 #define GLFWPP_HELPER_H
 
+#include <utility>
 #include <type_traits>
 
 #define GLFWPP_ENUM_FLAGS_OPERATORS(Enum)                                                                       \
